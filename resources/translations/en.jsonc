@@ -1,0 +1,14 @@
+{
+  // GrenadeCascade English Translations
+  // Naming convention: grenadecascade.category.name
+
+  // ========== GENERAL ==========
+  "grenadecascade.general.prefix": "[red][OSTORA][red]",
+
+  // ========== MESSAGES ==========
+  "grenadecascade.messages.permission_denied": "[white]You don't have permission to use grenade cascade!",
+  "grenadecascade.messages.cascade_activated": "[white]Grenade cascade activated!",
+  "grenadecascade.messages.cascade_enabled": "[white]Grenade cascade [green]enabled[white]!",
+  "grenadecascade.messages.cascade_disabled": "[white]Grenade cascade [red]disabled[white]!",
+  "grenadecascade.messages.cascade_globally_disabled": "[white]Grenade cascade is currently disabled by server configuration."
+}

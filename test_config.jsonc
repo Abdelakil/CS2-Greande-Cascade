@@ -1,0 +1,12 @@
+{
+  "GrenadeCascade": {
+    "enabled": false,
+    "allow_player_toggle": true,
+    "extra_grenades_count": 2,
+    "max_throw_distance": 300,
+    "min_throw_distance": 150,
+    "required_permission": "grenade_cascade.use",
+    "enable_debug_logging": true,
+    "log_spawn_attempts": true
+  }
+}
